@@ -1,0 +1,16 @@
+{
+  "name": "app-multi-platform-js",
+  "version": "1.0.0",
+  "main": "ui/index.js",
+  "type": "module",
+  "scripts": {
+    "web": "npx http-server .",
+    "console": "node ui/index.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "chalk-table": "^1.0.2",
+    "http-server": "^0.12.3"
+  }
+}
