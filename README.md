@@ -1,5 +1,5 @@
 ## :computer: Project
-**Isomorphic JS** is a simple app that the purpose is render the same table in two different environments, Browser and Terminal
+**Isomorphic JS** is a simple app that the purpose is to render the same content in two different environments, Browser and Terminal
 
 ---
 
