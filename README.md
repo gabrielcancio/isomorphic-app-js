@@ -43,7 +43,7 @@ $ yarn web
 ```
 Or
 ```bash
-$ npm web
+$ npm run web
 ```
 
 2. You can run the application in the **Terminal** environment, with the follow command:
@@ -52,7 +52,7 @@ $ yarn console
 ```
 Or
 ```bash
-$ npm console
+$ npm run console
 ```
 ---
 Developed with :green_heart: by Gabriel Cancio!
